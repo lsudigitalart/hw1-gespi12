@@ -1,9 +1,9 @@
-<html>
+<Java>
     <head>
         <title>Homework 1</title>
     </head>
     <body>
-        function setup()
+        function setup() 
   createCanvas(100, 100);
 
   background(200);
@@ -13,4 +13,4 @@
   describe('A white circle on a gray canvas.');
 
     </body>
-</html>
+</Java>
