@@ -1,4 +1,4 @@
-<JS>
+<Java>
     <head>
         <title>Homework 1</title>
     </head>
@@ -13,4 +13,4 @@
   describe('A white circle on a gray canvas.');
 
     </body>
-</JS>
+</Java>
